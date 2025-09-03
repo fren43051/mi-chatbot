@@ -1,0 +1,5 @@
+{
+  "name": "Make.com Chatbot Expert",
+  "description": "A sophisticated AI chatbot designed to answer questions exclusively based on a provided conversation about creating a chatbot using Make.com and Gemini. It features a sleek, modern user interface for an intuitive chat experience.",
+  "requestFramePermissions": []
+}
